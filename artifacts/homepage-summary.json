@@ -1,0 +1,11 @@
+{
+  "screen": "HomepageTest",
+  "texts": [
+    "99.co"
+  ],
+  "buttons": [
+    "Search",
+    "Buy",
+    "Rent"
+  ]
+}
